@@ -14,3 +14,8 @@ This thesis presents the Riemann solution for non linear Green Naghdi dissipatio
 <img src= "Test_case12.png" >
 
 <img src= "Test_case13.png" >
+
+
+# Conclusion
+
+In this work, a Riemann solution has been proposed to non linear Green Naghdi type II thermal equations. The nonlinear thermal response extracted from the classical generalized thermoelasticity, written in the form of free energy potential, the dissipationless Green- Naghdi equations consist of a set of nonlinear hyperbolic equations. In a 1D medium, these equations consist of two genuinely nonlinear characteristic fields. It has been shown that the characteristic structure exhibited in the solution of a Riemann problem necessarily consists of a combination of a shock and a rarefaction(i.e. 1-shock 2-rarefaction or 1-rarefaction 2-shock). It has also been shown that equations linked to a shock and a rarefaction can be derived analytically, though the solution of the star state requires to find numerically the root of a nonlinear scalar equation. Finally, different test cases have been shown and integral curves plotted for a given set of material parameters associated with Bismuth.
